@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as a,b as e,j as n}from"./index-3e3bba56.js";const _={},c={class:"btheader"},r={class:"container"};function d(t,l,i,p,u,f){return s(),a("section",c,[e("div",r,[e("h3",null,[n(t.$slots,"default",{},void 0,!0)])])])}const B=o(_,[["render",d],["__scopeId","data-v-5366f4b2"]]);export{B};
