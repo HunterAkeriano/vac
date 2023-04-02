@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as a,a as e,l as n}from"./index-b7a8c1c1.js";const _={},c={class:"btheader"},r={class:"container"};function d(t,l,i,p,u,f){return s(),a("section",c,[e("div",r,[e("h3",null,[n(t.$slots,"default",{},void 0,!0)])])])}const B=o(_,[["render",d],["__scopeId","data-v-213e7647"]]);export{B};
